@@ -1,1 +1,16 @@
-
+{
+"posts": [
+  {
+    "id": 1,
+    "título": "Postagem 1"
+  },
+  {
+    "id": 2,
+    "título": "Postagem 2"
+  },
+  {
+    "id": 3,
+    "título": "Postagem 3"
+  }
+]
+}
