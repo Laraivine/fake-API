@@ -2,15 +2,28 @@
 "posts": [
   {
     "id": 1,
-    "título": "Postagem 1"
+    "text_titulo": "NÃO FUME",
+    "titulo": "O cigarro prejudica os pulmões, o coração e aumenta o risco de várias doenças."
   },
   {
     "id": 2,
-    "título": "Postagem 2"
+    "text_titulo": "EVITE EXPOSIÇÃO A POLUENTES",
+    "titulo": "A qualidade do ar influencia diretamente sua saúde respiratória."
   },
   {
     "id": 3,
-    "título": "Postagem 3"
+    "text_titulo": "ADOTE UMA DIETA SAUDÁVEL"
+    "titulo": "Prefira alimentos naturais, com menos gordura, sal e açúcar."
+  },
+  {
+    "id": 4,
+    "text_titulo": "PRATIQUE ATIVIDADE FÍSICA"
+    "titulo": "Exercitar-se regularmente melhora o humor, a disposição e previne doenças."
+  },
+  {
+    "id": 5,
+    "text_titulo": "FAÇA CONSULTAS MÉDICAS"
+    "titulo": "O acompanhamento profissional ajuda na prevenção e no diagnóstico precoce."
   }
 ]
 }
